@@ -4,32 +4,345 @@ title: Calendar
 uid: 22da5524-89ae-d0be-e571-2678d7ca2f94
 ---
 
-| SES # | TOPICS | KEY Dates |
-| --- | --- | --- |
-| 1 | Introduction and class overview | &nbsp; |
-| 2 | Sound, digital audio, pyaudio, Kivy, sine waves, additive synthesis | &nbsp; |
-| 3 | Exploration Presentation (EP) example. Lab. | &nbsp; |
-| 4 | Audio files, sampling, looping, resampling, recording | Pset 1 due |
-| 5 | Pset demos. EP1. Lab. | &nbsp; |
-| 6 | Graphics, rendering, draw primitives, colors, animation, simulation | Pset 2 due |
-| 7 | Pset demos. EP2. Lab. | &nbsp; |
-| 8 | MIDI, FluidSynth, Scheduling, Metronome | Pset 3 due |
-| 9 | Pset demos. EP3. Lab. | &nbsp; |
-| 10 | Harmonix Tour | &nbsp; |
-| 11 | Input devices, controllers, sensors, Kinect, gesture tracking | Pset 4 due |
-| 12 | Pset demos. EP4. Lab. | &nbsp; |
-| 13 | Music games. _Fantasia: Music Evolved_ play session. | Pset 5 due |
-| 14 | Pset demos. EP5. Final project process / pitch session. | &nbsp; |
-| 15 | _Guitar Hero_ / Team formation party. | Pset 6 due |
-| 16 | EP7. Guest lecture by Ben Houge. | &nbsp; |
-| 17 | Project proposal presentations. | Pset 7 due |
-| 18 | Pset demos., EP8. EP9. | Project Proposal due |
-| 19 | Team meetings with instructor. | &nbsp; |
-| 20 | 1st Milestone presentations. | Milestone 1 due |
-| 21 | Team meetings with instructor. | &nbsp; |
-| 22 | Team meetings with instructor. | &nbsp; |
-| 23 | 2nd Milestone presentations. | Milestone 2 due |
-| 24 | Team meetings with instructor. | &nbsp; |
-| 25 | Team meetings with instructor. | &nbsp; |
-| 26 | Final project presentations, part I. | Final Project due |
-| 27 | Final project presentations, part II. | Final Project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and class overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Sound, digital audio, pyaudio, Kivy, sine waves, additive synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Exploration Presentation (EP) example. Lab.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Audio files, sampling, looping, resampling, recording
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pset demos. EP1. Lab.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Graphics, rendering, draw primitives, colors, animation, simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Pset demos. EP2. Lab.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+MIDI, FluidSynth, Scheduling, Metronome
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Pset demos. EP3. Lab.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Harmonix Tour
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Input devices, controllers, sensors, Kinect, gesture tracking
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Pset demos. EP4. Lab.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Music games. _Fantasia: Music Evolved_ play session.
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Pset demos. EP5. Final project process / pitch session.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Guitar Hero_ / Team formation party.
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+EP7. Guest lecture by Ben Houge.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal presentations.
+{{< tdclose >}}
+{{< tdopen >}}
+Pset 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Pset demos., EP8. EP9.
+{{< tdclose >}}
+{{< tdopen >}}
+Project Proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Team meetings with instructor.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+1st Milestone presentations.
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Team meetings with instructor.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Team meetings with instructor.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+2nd Milestone presentations.
+{{< tdclose >}}
+{{< tdopen >}}
+Milestone 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Team meetings with instructor.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Team meetings with instructor.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations, part I.
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations, part II.
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

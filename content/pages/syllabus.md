@@ -72,11 +72,48 @@ There is no required text and relatively little required reading. All topics are
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Class attendance, including in-class presentations | 20% |
-| Assignments | 50% |
-| Final Project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance, including in-class presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Late assignments are penalized 10% per day that they are late, with a maximum penalty of 50%. Every student is allowed one assignment extension, which must be coordinated ahead of time with the instructor.
 
