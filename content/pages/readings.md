@@ -40,7 +40,7 @@ Wang, Ge. [Principles of Visual Design for Computer Music](http://quod.lib.umich
 Kinect
 {{< tdclose >}}
 {{< tdopen >}}
-MacCormick, John. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[How Does the Kinect Work? (PDF 2.3MB)](https://users.dickinson.edu/~jmac/selected-talks/kinect.pdf)
+MacCormick, John. [How Does the Kinect Work? (PDF 2.3MB)](https://users.dickinson.edu/~jmac/selected-talks/kinect.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
