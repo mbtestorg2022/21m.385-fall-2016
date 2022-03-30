@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005/)_, _[6.01 Introduction to EECS](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)_ (or python proficiency), or permission from the instructor. _[6.005 Software Construction](/courses/6-005-software-construction-spring-2016/)_ is recommended.
+_[21M.301 Harmony and Counterpoint I](/courses/21m-301-harmony-and-counterpoint-i-spring-2005)_, _[6.01 Introduction to EECS](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011)_ (or python proficiency), or permission from the instructor. _[6.005 Software Construction](/courses/6-005-software-construction-spring-2016)_ is recommended.
 
 Course Description
 ------------------
